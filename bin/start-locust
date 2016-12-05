@@ -1,0 +1,2 @@
+#!/bin/bash
+locust -f $TEST_PATH --host=$HOST
